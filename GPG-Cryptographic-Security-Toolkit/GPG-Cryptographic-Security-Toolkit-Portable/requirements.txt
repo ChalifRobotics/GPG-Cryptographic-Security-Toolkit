@@ -1,0 +1,18 @@
+# Python package requirements for GPG Cryptographic Security Toolkit
+#
+# Pillow:
+#   Used to load, resize, and display GUI images/backgrounds.
+#
+# tkcalendar:
+#   Used to display the calendar widget for selecting GPG key expiration dates.
+#
+# System-level software that must also be installed separately:
+#   - Python 3
+#   - GnuPG/GPG
+#   - Tkinter support. On Linux this is usually installed with python3-tk.
+#
+# Install these Python packages with:
+#   pip install -r requirements.txt
+
+Pillow
+tkcalendar
