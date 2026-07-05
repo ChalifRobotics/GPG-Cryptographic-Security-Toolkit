@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+.env
+*.log
+.DS_Store
+.vscode/
+.idea/
+
+# Local generated data
+app_data/
+exports/
+
+# Do not upload real secrets/private keys
+*.gpg
+private_keys/
+test_keys/
+*.key
