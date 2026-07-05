@@ -16,7 +16,7 @@
 # --------------------------------------------------------------------------------------------------
 # Keep this Python file beside the assets folder:
 #
-#     GPG-Cryptographic-Security-Toolkit-Portable/
+#     GPG-Cryptographic-Security-Toolkit
 #     ├── GPG-Toolkit-Portable.py
 #     ├── assets/
 #     │   ├── cipher_text_and_key_with_pen.png
