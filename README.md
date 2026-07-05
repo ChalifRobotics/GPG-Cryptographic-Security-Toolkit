@@ -1,5 +1,5 @@
 GPG Cryptographic Security Toolkit
-Project Summary
+Project Summary: 
 The GPG Cryptographic Security Toolkit is a Python/Tkinter cybersecurity application created by Jesse Chalif, owner of CHALIF ROBOTICS L.L.C., as part of his cybersecurity portfolio.
 
 This project demonstrates practical cryptography workflows through a graphical user interface. It is designed for cybersecurity education, portfolio demonstration, and hands-on practice with hashing, digital signatures, key verification, public key certification, encryption, decryption, and GPG key management.
